@@ -11,11 +11,12 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=fc172a)
-  ![Junit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
-  ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft)
   ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=apachegroovy)
+  ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft)
+ - 🔗 &nbsp;
+  ![Junit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)
-  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,8 +30,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellijidea)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br/>

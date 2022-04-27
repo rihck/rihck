@@ -10,14 +10,20 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=fc172a)
+  ![Junit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
+  ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft)
+  ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=apachegroovy)
+  ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Postgrees](https://img.shields.io/badge/-Postgrees-333333?style=flat&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=ff0015)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

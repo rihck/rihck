@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science at University of FATEC Praia Grande, Brazil.
 - 💼 &nbsp; Working as a Softwer Engineering at [AvenueCode](https://www.linkedin.com/company/avenuecode/).
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Distributed Systems Architecture.
+- 🌱 &nbsp; Learning more about Algorithms and Data Structure, Systems Design and Distributed Systems Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

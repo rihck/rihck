@@ -38,6 +38,8 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgrees](https://img.shields.io/badge/-Postgrees-333333?style=flat&logo=postgresql)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=ff0015)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis&logoColor=#DC382D)
+  ![H2](https://img.shields.io/badge/-H2-333333?style=flat&logoColor=#DC382D)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)

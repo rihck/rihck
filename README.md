@@ -3,12 +3,16 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Computer Science at University of FATEC Praia Grande, Brazil.
+- 🎓 &nbsp; Studied Computer Science at University of [FATEC Praia Grande](https://www.linkedin.com/school/centro-paula-souza---fatec-praia-grande/), Brazil.
 - 💼 &nbsp; Working as a Softwer Engineering at [AvenueCode](https://www.linkedin.com/company/avenuecode/).
 - 🌱 &nbsp; Learning more about Algorithms and Data Structure, Systems Design and Distributed Systems Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+- 🏛️ &nbsp;
+  ![Micro Services](https://img.shields.io/badge/-Micro%20Services-333333?style=fla&logoColor=007ACC)
+  ![Monolith](https://img.shields.io/badge/-Monolith-333333?style=fla&logoColor=007ACC)
+  ![Message Broker](https://img.shields.io/badge/-Message%20Brokers-333333?style=fla&logoColor=007ACC)
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=fc172a)
   ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=apachegroovy)

@@ -28,7 +28,7 @@
   ![WireMock](https://img.shields.io/badge/-Wire%20Mock-333333?style=fla&logoColor=007ACC)
   ![MountBank](https://img.shields.io/badge/-Mount%20Bank-333333?style=fla&logoColor=007ACC)
   ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)
- - 〰️
+ - 〰️ &nbsp;
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-333333?style=flat)

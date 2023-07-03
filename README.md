@@ -18,6 +18,11 @@
   ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=apachegroovy)
   ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft)
  - 🔗 &nbsp;
+  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![Spring Cloud](https://img.shields.io/badge/-Spring%20Cloud-333333?style=flat&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
+  ![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=springsecurity)
+  ![Java EE](https://img.shields.io/badge/-Java%20EE-333333?style=flat)
   ![Junit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)
@@ -49,3 +54,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhenriquedev/?locale=en_US/)](https://www.linkedin.com/in/rhenriquedev/?locale=en_US)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/rihck)](https://instagram.com/rihck)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/rihkck)](https://open.spotify.com/user/rihkck) <em>
+
+[comment]: <> (Icons used in img Shields: https://simpleicons.org/)
+[comment]: <> (Github Emoji Picker: https://github-emoji-picker.rickstaa.dev/)

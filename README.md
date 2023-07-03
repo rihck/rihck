@@ -44,6 +44,12 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Sonar Qube](https://img.shields.io/badge/-Sonar%20Qube-333333?style=flat&logo=sonarqube)
+  ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+  ![Maven](https://img.shields.io/badge/-Apache%20Maven-333333?style=flat&logo=apachemaven)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+  ![CloudBees](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=cloudbees)
+  ![SCRUM](https://img.shields.io/badge/-SCRUM-333333?style=flat&logo=scrumalliance)
 - 🔧 &nbsp;
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellijidea)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)

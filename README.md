@@ -14,7 +14,7 @@
   ![Monolith](https://img.shields.io/badge/-Monolith-333333?style=fla&logoColor=007ACC)
   ![Message Broker](https://img.shields.io/badge/-Message%20Brokers-333333?style=fla&logoColor=007ACC)
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=fc172a)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle&logoColor=fc172a)
   ![Groovy](https://img.shields.io/badge/-Groovy-333333?style=flat&logo=apachegroovy)
   ![MuleSoft](https://img.shields.io/badge/-Mule%20Soft-333333?style=flat&logo=mulesoft)
  - 🔗 &nbsp;

@@ -56,6 +56,8 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![ZSH](https://img.shields.io/badge/-ZSH-333333?style=flat&logo=gnubash)
+  ![Unix](https://img.shields.io/badge/-Unix-333333?style=flat)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)

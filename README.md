@@ -24,8 +24,16 @@
   ![Spring Security](https://img.shields.io/badge/-Spring%20Security-333333?style=flat&logo=springsecurity)
   ![Java EE](https://img.shields.io/badge/-Java%20EE-333333?style=flat)
   ![Junit](https://img.shields.io/badge/-JUnit-333333?style=flat&logo=junit5)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-  ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)
+  ![Mockito](https://img.shields.io/badge/-Mockito-333333?style=fla&logoColor=007ACC)
+  ![WireMock](https://img.shields.io/badge/-Wire%20Mock-333333?style=fla&logoColor=007ACC)
+  ![MountBank](https://img.shields.io/badge/-Mount%20Bank-333333?style=fla&logoColor=007ACC)
+  ![Spock](https://img.shields.io/badge/-Spock-333333?style=flat&logo=apachegroovy)〰️
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+  ![ActiveMQ](https://img.shields.io/badge/-ActiveMQ-333333?style=flat)
+  ![JMS](https://img.shields.io/badge/-JMS-333333?style=flat)
+  ![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=splunk)
+  ![Dynatrace](https://img.shields.io/badge/-Dynatrace-333333?style=flat&logo=dynatrace)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgrees](https://img.shields.io/badge/-Postgrees-333333?style=flat&logo=postgresql)

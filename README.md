@@ -70,7 +70,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rihck)](https://github.com/rihck)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhenriquedev/?locale=en_US/)](https://www.linkedin.com/in/rhenriquedev/?locale=en_US)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rihck/?locale=en_US/)](https://www.linkedin.com/in/rihck/?locale=en_US)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/rihck)](https://instagram.com/rihck)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/rihkck)](https://open.spotify.com/user/rihkck) <em>
 
